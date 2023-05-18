@@ -13,4 +13,3 @@
 * simNegBin.m
     * Simulating random variables from Negative Binomial distribution with shape
       parameter 3.
-# simulation
